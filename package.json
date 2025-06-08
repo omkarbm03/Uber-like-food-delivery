@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omkarbm03/react-boss.git"
+    "url": "git+https://github.com/omkarbm03/React-Projects.git"
   },
   "keywords": [
     "react",
@@ -17,7 +17,10 @@
   "author": "Omkar Mane",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omkarbm03/react-boss/issues"
+    "url": "https://github.com/omkarbm03/React-Projects/issues"
   },
-  "homepage": "https://github.com/omkarbm03/react-boss#readme"
+  "homepage": "https://github.com/omkarbm03/React-Projects#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
 }
