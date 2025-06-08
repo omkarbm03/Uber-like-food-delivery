@@ -1,0 +1,23 @@
+{
+  "name": "react-boss",
+  "version": "1.0.0",
+  "description": "This is practice npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkarbm03/react-boss.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Omkar Mane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkarbm03/react-boss/issues"
+  },
+  "homepage": "https://github.com/omkarbm03/react-boss#readme"
+}
