@@ -18,13 +18,19 @@ It includes restaurant listings, cart management, order simulation, and responsi
 - 🔧 **Production-Ready Setup** – Babel transpilation, modular components, util functions.
 
 ---
+##Take a Peek 
+<img width="1440" height="900" alt="Screenshot 2025-08-29 at 6 17 10 PM" src="https://github.com/user-attachments/assets/39bafcb1-499b-4ce3-892e-82f29724097d" />
+
+<img width="1440" height="900" alt="Screenshot 2025-08-29 at 6 17 30 PM" src="https://github.com/user-attachments/assets/ce15b76d-3665-4c11-a2d7-6fdbbedccc36" />
+
+
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React  
-- **Styling:** CSS / TailwindCSS (optional)  
+- **Styling:** CSS / TailwindCSS  
 - **Bundler:** Parcel (easy development builds)  
-- **Testing:** Jest + React Testing Library (if configured)  
+- **Testing:** Jest + React Testing Library  
 - **APIs:** Mock data & local API simulation  
 
 ---
@@ -61,3 +67,4 @@ npm start     # Run dev server
 npm run build # Build for production
 npm test      # Run tests (if configured)
 ```
+
